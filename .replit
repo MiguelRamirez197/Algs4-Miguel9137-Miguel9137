@@ -1,0 +1,1 @@
+run = "export CLASSPATH=\"algs4.jar:.\"; javac -d . Main.java; java Main"
